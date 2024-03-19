@@ -98,6 +98,4 @@
  
  <br>
  
-  
- 
-![Snake animation](https://github.com/felipe-accioly/felipe-accioly/blob/output/github-snake-dark.svg)
+
